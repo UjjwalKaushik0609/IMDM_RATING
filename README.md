@@ -1,6 +1,6 @@
 
 # 🎬 IMDb Top 250 Movies – Web Scraping & Analysis
-
+![Image](https://github.com/user-attachments/assets/b739e84b-a946-4c2d-b59d-5695bb26fdd2)
 ## 📌 About
 
 This notebook demonstrates **web scraping and exploratory analysis** of IMDb’s Top 250
